@@ -10,3 +10,6 @@ dipakai untuk latihan pada kelas RevoU Unit Testing 7-Nov-2024
 │   ├── tests
 │   │   └── test_implementasi_code.py
 ```
+
+## Hasil run unit test di Github Actions
+![image](https://github.com/user-attachments/assets/5bdfa235-04fe-4f75-a85f-6ce71817afc1)
