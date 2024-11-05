@@ -1,2 +1,2 @@
-def jumlah(x):
+def naik(x):
     return x + 1
