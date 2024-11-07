@@ -13,3 +13,7 @@ dipakai untuk latihan pada kelas RevoU Unit Testing 7-Nov-2024
 
 ## Hasil run unit test di Github Actions
 ![image](https://github.com/user-attachments/assets/5bdfa235-04fe-4f75-a85f-6ce71817afc1)
+
+
+### Referensi
+* BVA dan Equal Partitioning: https://www.guru99.com/equivalence-partitioning-boundary-value-analysis.html untuk pizza.py dan test_pizza.py
